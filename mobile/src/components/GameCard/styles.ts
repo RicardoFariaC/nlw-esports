@@ -24,5 +24,5 @@ export const styles = StyleSheet.create({
     color: THEME.COLORS.CAPTION_300,
     fontSize: THEME.FONT_SIZE.MD,
     fontFamily: THEME.FONT_FAMILY.REGULAR
-  }
+  }, 
 });
