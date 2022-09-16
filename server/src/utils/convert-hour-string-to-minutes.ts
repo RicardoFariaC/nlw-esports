@@ -3,5 +3,4 @@ export function convertHourStringToMinutes(hourString: string) {
     const minutesAmount = (hours * 60) + minutes;
     
     return minutesAmount;
-
 }
